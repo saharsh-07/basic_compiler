@@ -1,1 +1,1 @@
-##basic compiler in Python following TeenyTiny compiler.
+basic compiler in Python following TeenyTiny compiler.
